@@ -13,14 +13,16 @@ The purpose of the analysis is to help W. Avy to determine if the surf and ice c
 </p>
 
 ## Summary
-The histogram shows a better representation of the data. We can see from below that the temperatures in June are most of the time higher than the temperatures in December.
+Using the temperarure histogram together with the precipitations histogram we can conclude that June and December are good months for the surf and ice cream shop.
+
+We can see from below that the temperatures in June are most of the time higher than the temperatures in December.
 
 <p float="left">
     <img src="https://github.com/juliomeza/surfs_up/blob/main/Resources/June_hist.png" width="370">
     <img src="https://github.com/juliomeza/surfs_up/blob/main/Resources/December_hist.png" width="370">
 </p>
 
-The precipitations histogram shows that there are not many precipitations for the months of June and December
+The precipitations histogram shows that there are not many precipitations in June and December
 
 <p float="left">
     <img src="https://github.com/juliomeza/surfs_up/blob/main/Resources/June%20Precipitations.png" width="370">
