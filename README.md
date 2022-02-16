@@ -16,6 +16,6 @@ The purpose of the analysis is to help W. Avy to determine if the surf and ice c
 The histogram shows a better representation of the data.
 
 <p float="left">
-    <img src="https://github.com/juliomeza/surfs_up/blob/main/Resources/June_hist.png" width="300">
-    <img src="https://github.com/juliomeza/surfs_up/blob/main/Resources/December_hist.png" width="300">
+    <img src="https://github.com/juliomeza/surfs_up/blob/main/Resources/June_hist.png" width="370">
+    <img src="https://github.com/juliomeza/surfs_up/blob/main/Resources/December_hist.png" width="370">
 </p>
