@@ -21,3 +21,8 @@ The histogram shows a better representation of the data. We can see from below t
 </p>
 
 The precipitations histogram shows that there are not many precipitations for the months of June and December
+
+<p float="left">
+    <img src="https://github.com/juliomeza/surfs_up/blob/main/Resources/June%20Precipitations.png" width="370">
+    <img src="https://github.com/juliomeza/surfs_up/blob/main/Resources/December%20Precipitations.png" width="370">
+</p>
